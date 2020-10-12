@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\ButtonControlSample\ButtonControlSample\bin\Debug\ButtonControlSample.exe.config
+C:\Users\user\source\repos\ButtonControlSample\ButtonControlSample\bin\Debug\ButtonControlSample.exe
+C:\Users\user\source\repos\ButtonControlSample\ButtonControlSample\bin\Debug\ButtonControlSample.pdb
+C:\Users\user\source\repos\ButtonControlSample\ButtonControlSample\obj\Debug\ButtonControlSample.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ButtonControlSample\ButtonControlSample\obj\Debug\ButtonControlSample.Properties.Resources.resources
+C:\Users\user\source\repos\ButtonControlSample\ButtonControlSample\obj\Debug\ButtonControlSample.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ButtonControlSample\ButtonControlSample\obj\Debug\ButtonControlSample.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ButtonControlSample\ButtonControlSample\obj\Debug\ButtonControlSample.exe
+C:\Users\user\source\repos\ButtonControlSample\ButtonControlSample\obj\Debug\ButtonControlSample.pdb
+C:\Users\user\source\repos\ButtonControlSample\ButtonControlSample\obj\Debug\ButtonControlSample.Form1.resources
